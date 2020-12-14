@@ -1,3 +1,3 @@
 # InnoDB
 
-innodb utility tools for Go
+innodb utility toolset for Go
